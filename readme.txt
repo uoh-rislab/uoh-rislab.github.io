@@ -1,45 +1,30 @@
-Free Responsive HTML5 Template
+# uoh-rislab.github.io
+Web Page for UOH RISLab projects
 
-Creative Bee is a multi-purpose clean html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and start-up company.
+## Descripción
 
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design 
-Multipurpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
+Este repositorio mantiene el código de la página oficial del laboratorio UOH RISLab.
+
+La página es hosteada en un servidor:
+
+- [Servidor de Desarrollo](https://uoh-rislab.github.io/): GitHub Pages. Contiene la última versión de la página, tal como está hosteada en GitHub.
 
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com, http://risewall.com/home-business-team-wallpapers.html
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+## Desarrollo de la página
 
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+La página se desarrolla de acuerdo a los requerimientos de [GitHub Pages](https://pages.github.com/), por lo que sólo contiene código estático: html, css y javascript.
+
+### Prerequisitos
+
+#### Descargar este repositorio
+
+Debes descargar este repositorio para poder aplicar cambios en la página.
 
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+### Desarrollo y test
 
-- You are allowed to use all files for both personal and commercial projects.
+Cada commit subido (push) al repositorio será automáticamente compilado por GitHub pages. Los cambios se podrán ver en la página de desarrollo unos minutos tras el commit.
 
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+## Consideraciones IMPORTANTES
 
-- You do not have rights to redistribute,resell or offer files from this site to any third party
-
-- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
-
-- If you have any question,feel free to contact us at webthemez@gmail.com
-
-- All images user here is for demo purpose only, we are not responsible for any copyrights.
+- Evitar a toda costa subir archivos que no sean código a la página web: imágenes, video, pdfs, etc. Especialmente si éstos pesan más de 1MB.
